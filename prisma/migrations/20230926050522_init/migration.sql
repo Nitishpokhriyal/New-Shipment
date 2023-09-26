@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Drivers" ALTER COLUMN "VehicleNumber" SET DATA TYPE TEXT,
+ALTER COLUMN "LicenseNumber" SET DATA TYPE TEXT;
